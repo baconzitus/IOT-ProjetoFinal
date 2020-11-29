@@ -1,6 +1,6 @@
 # IOT-ProjetoFinal
-Projeto final da disciplina de IOT da segunda fase do curso técnico de informatica SATC 2020
-![](https://www1.satc.edu.br/portais/acesso/public/assets/img/logoSatc.png)
+Projeto final da disciplina de IOT da segunda fase do curso técnico de informatica SATC 2020  
+![](https://www1.satc.edu.br/portais/acesso/public/assets/img/logoSatc.png)             
 
 Atividade avaliativa de Projeto Final da disciplina de IoT (Internet of Things) do curso técnico de informatica SATC 2020
 
